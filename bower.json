@@ -1,0 +1,33 @@
+{
+  "name": "inspinia",
+  "authors": [
+    "Maheswaran Ramasamy <mramasamy@anpi.com>"
+  ],
+  "description": "the template for ANPI projects",
+  "main": [
+    "dist/js/inspinia.js",
+    "dist/css/style.css"
+  ],
+  "keywords": [
+    "css",
+    "js",
+    "responsive",
+    "front-end",
+    "web"
+  ],
+  "license": "MIT",
+  "homepage": "https://wrapbootstrap.com/",
+  "moduleType": "globals",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "font-awesome": "^4.6.3",
+    "jquery": "^2.2.3"
+  }
+}
