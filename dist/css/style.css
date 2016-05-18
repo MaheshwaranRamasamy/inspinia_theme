@@ -14,7 +14,6 @@
 
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700");
 @import url("https://fonts.googleapis.com/css?family=Roboto:400,300,500,700");
-@import "plugins/awesome-bootstrap-checkbox/awesome-bootstrap-checkbox.css";
 
 
 /*
@@ -23,7 +22,7 @@
  *   version 2.4
  *
 */
-h1,blueimp/css
+h1,
 h2,
 h3,
 h4,
