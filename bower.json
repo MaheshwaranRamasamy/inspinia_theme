@@ -17,7 +17,6 @@
   ],
   "license": "MIT",
   "homepage": "https://wrapbootstrap.com/",
-  "moduleType": "globals",
   "ignore": [
     "**/.*",
     "README.md",
