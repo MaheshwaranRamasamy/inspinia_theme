@@ -1,0 +1,26 @@
+{
+  "name": "inspinia_theme",
+  "version": "1.0.0",
+  "description": "the template for ANPI projects",
+  "main": "dist/js/inspinia.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaheshwaranRamasamy/inspinia_theme.git"
+  },
+  "keywords": [
+    "css",
+    "js",
+    "responsive",
+    "front-end",
+    "web"
+  ],
+  "author": "MaheshRamasamy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaheshwaranRamasamy/inspinia_theme/issues"
+  },
+  "homepage": "https://github.com/MaheshwaranRamasamy/inspinia_theme#readme"
+}
