@@ -15,6 +15,48 @@
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700");
 @import url("https://fonts.googleapis.com/css?family=Roboto:400,300,500,700");
 
+@import url("plugins/awesome-bootstrap-checkbox/awesome-bootstrap-checkbox.css");
+@import url("plugins/blueimp/css/blueimp-gallery.css");
+@import url("plugins/blueimp/css/blueimp-gallery-indicator.css");
+@import url("plugins/blueimp/css/blueimp-gallery-video.css");
+@import url("plugins/bootstrap-markdown/bootstrap-markdown.min.css");
+@import url("plugins/bootstrap-rtl/bootstrap-rtl.css");
+@import url("plugins/bootstrapTour/bootstrap-tour.min.css");
+@import url("plugins/c3/c3.min.css");
+@import url("plugins/chartist/chartist.min.css");
+@import url("plugins/chosen/chosen.css");
+@import url("plugins/clockpicker/clockpicker.css");
+@import url("plugins/codemirror/codemirror.css");
+@import url("plugins/codemirror/ambiance.css");
+@import url("plugins/colorpicker/bootstrap-colorpicker.min.css");
+@import url("plugins/cropper/cropper.min.css");
+@import url("plugins/datepicker/datepicker3.css");
+@import url("plugins/dataTables/datatables.min.css");
+@import url("plugins/daterangepicker/daterangepicker-bs3.css");
+@import url("plugins/dropzone/dropzone.css");
+@import url("plugins/dropzone/basic.css");
+@import url("plugins/footable/footable.core.css");
+@import url("plugins/fullcalendar/fullcalendar.css");
+@import url("plugins/fullcalendar/fullcalendar.print.css");
+@import url("plugins/iCheck/custom.css");
+@import url("plugins/ionRangeSlider/ion.rangeSlider.skinSimple.css");
+@import url("plugins/jasny/jasny-bootstrap.min.css");
+@import url("plugins/jqGrid/ui.jqgrid.css");
+@import url("plugins/jsTree/style.css");
+@import url("plugins/ladda/ladda.min.css");
+@import url("plugins/morris/morris-0.4.3.min.css");
+@import url("plugins/nouslider/jquery.nouislider.css");
+@import url("plugins/select2/select2.min.css");
+@import url("plugins/slick/slick.css");
+@import url("plugins/slick/slick-theme.css");
+@import url("plugins/social-buttons/social-buttons.css");
+@import url("plugins/steps/jquery.steps.css");
+@import url("plugins/summernote/summernote.css");
+@import url("plugins/sweetalert/sweetalert.css");
+@import url("plugins/switchery/switchery.css");
+@import url("plugins/toastr/toastr.min.css");
+@import url("plugins/touchspin/jquery.bootstrap-touchspin.min.css");
+
 
 /*
  *
