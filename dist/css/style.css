@@ -15,9 +15,9 @@
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700");
 @import url("https://fonts.googleapis.com/css?family=Roboto:400,300,500,700");
 
-@import url("plugins/toastr/toastr.min.css");
-@import url("../js/plugins/gritter/jquery.gritter.css");
-@import url("animate.css");
+@import "plugins/toastr/toastr.min.css";
+@import "../js/plugins/gritter/jquery.gritter.css";
+@import "animate.css";
 
 
 /*
