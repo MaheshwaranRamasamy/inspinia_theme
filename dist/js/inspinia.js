@@ -18,6 +18,10 @@ require('plugins/peity/jquery.peity.min.js')
 require('plugins/demo/peity-demo.js')
 require('plugins/pace/pace.min.js')
 require('plugins/gritter/jquery.gritter.min.js')
+require('plugins/sparkline/jquery.sparkline.min.js')
+require('plugins/demo/sparkline-demo.js')
+require('plugins/chartJs/Chart.min.js')
+require('plugins/toastr/toastr.min.js')
 
 
 $(document).ready(function () {
