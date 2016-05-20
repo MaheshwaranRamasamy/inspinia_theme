@@ -5,6 +5,20 @@
  *
  */
 
+// External Plugin
+
+require('plugins/metisMenu/jquery.metisMenu.js')
+require('plugins/slimscroll/jquery.slimscroll.min.js')
+require('plugins/flot/jquery.flot.js')
+require('plugins/flot/jquery.flot.tooltip.min.js')
+require('plugins/flot/jquery.flot.spline.js')
+require('plugins/flot/jquery.flot.resize.js')
+require('plugins/flot/jquery.flot.pie.js')
+require('plugins/peity/jquery.peity.min.js')
+require('plugins/demo/peity-demo.js')
+require('plugins/pace/pace.min.js')
+require('plugins/gritter/jquery.gritter.min.js')
+
 
 $(document).ready(function () {
 
