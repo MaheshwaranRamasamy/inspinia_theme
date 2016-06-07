@@ -24,34 +24,3 @@
   },
   "homepage": "https://github.com/MaheshwaranRamasamy/inspinia_theme#readme"
 }
-{
-  "name": "inspinia_theme",
-  "description": "the template for ANPI projects",
-  "version": "1.0.0",
-  "keywords": [
-    "css",
-    "responsive",
-    "front-end",
-    "web"
-  ],
-  "homepage": "https://github.com/MaheshwaranRamasamy/inspinia_theme#readme",
-  "author": "MaheshRamasamy",
-  "style": "dist/css/style.css",
-  "main": "./dist/js/inspinia",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/MaheshwaranRamasamy/inspinia_theme.git"
-  },
-  "bugs": {
-    "url": "https://github.com/MaheshwaranRamasamy/inspinia_theme/issues"
-  },
-  "license": "MIT",
-  "files": [
-    "dist"
-  ],
-  "files": [
-      "css",
-      "js"
-    ]
-  }
-}
